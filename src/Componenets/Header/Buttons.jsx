@@ -4,8 +4,8 @@ import Resume from '../../Assets/resume.pdf'
 const Buttons = () => {
   return (
     <div className='Buttons'>
-        <a href={Resume} download>Download CV</a>
-        <a href='#contact'>Contact</a>
+        <a href={Resume} download className='btn'>Download CV</a>
+        <a href='#contact' className=' btn btn-primary'>Contact</a>
     </div>
   )
 }

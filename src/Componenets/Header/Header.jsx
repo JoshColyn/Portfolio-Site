@@ -2,7 +2,7 @@ import React from 'react'
 import './Header.css'
 import Buttons from './Buttons'
 import HeaderSocials from './HeaderSocials'
-import Profile from '../../Assets/Profile.jpg'
+import Profile from '../../Assets/My project-1.png'
 
 const Header = () => {
   return (
